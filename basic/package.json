@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node hello.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> master
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

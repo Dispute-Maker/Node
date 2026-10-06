@@ -1,0 +1,22 @@
+
+1789797254606 : ::1 : GET : /users
+
+1789797303158 : ::1 : GET : /api/users
+
+1789797306819 : ::1 : GET : /api/users
+
+1789797397587 : ::1 : GET : /api/users
+
+1789797483734 : ::1 : GET : /api/users
+
+1789797495124 : ::1 : GET : /api/users
+
+1789797561298 : ::1 : GET : /api/users
+
+1789797647630 : ::1 : POST : /api/users
+
+1789797689121 : ::1 : GET : /api/users/6aae250f535edb415f8c6cae
+
+1789797725412 : ::1 : PATCH : /api/users/6aae250f535edb415f8c6cae
+
+1789797738521 : ::1 : DELETE : /api/users/6aae250f535edb415f8c6cae
